@@ -1,0 +1,10 @@
+{
+  "name": "lambdas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Adrien Lacroix",
+  "license": "MIT",
+  "dependencies": {
+    "serverless-python-requirements": "3.3.1"
+  }
+}
